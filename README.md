@@ -16,9 +16,9 @@
 - Practice LeetCode algorithms to solidify programming fundamentals
 
 ### 📁 Core Repository Navigation 
-- [CS-Study-Notes](https://github.com/[Your Username]/CS-Study-Notes): CS study notes (Python/C++/Data Structures)
-- [Python-Small-Tools](https://github.com/[Your Username]/Python-Small-Tools): Practical Python small tool collection
-- [LeetCode-Training](https://github.com/[Your Username]/LeetCode-Training): LeetCode notes (Python/C++ dual solutions)
+- [CS-Study-Notes](https://github.com/nqilin/CS-Study-Notes): CS study notes (Python/C++/Data Structures)
+- [Python-Small-Tools](https://github.com/nqilin/Python-Small-Tools): Practical Python small tool collection
+- [LeetCode-Training](https://github.com/nqilin/LeetCode-Training): LeetCode notes (Python/C++ dual solutions)
 
 ### ✨ Code + Design Integration Practice
 - Create simple UI prototypes for developed small tools to achieve **function + vision** presentation
